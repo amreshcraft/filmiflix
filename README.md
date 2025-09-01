@@ -2,7 +2,7 @@
 **Discover, Search, and Explore Movies Effortlessly!**  
 
 🌐 **Live Site:** [filmiflix.netlify.app](https://filmiflix.netlify.app)  
-💻 **GitHub Code:** [View Repository](https://github.com/amreshpro/filmiflix)  
+💻 **GitHub Code:** [View Repository](https://github.com/amreshcraft/filmiflix)  
 
 ![Home Page Screenshot](./public/proj-home.png)
 
@@ -111,7 +111,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## 💬 **Contact**  
 If you have any questions, feedback, or ideas, feel free to reach out:  
 - **Email**: amresh.terminal@gmail.com  
-- **LinkedIn**: [amresh9](https://linkedin.com/in/amresh9)  
+- **LinkedIn**: [amreshpro](https://linkedin.com/in/amreshpro
+- )  
 
 ---
 
