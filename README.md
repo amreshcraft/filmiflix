@@ -50,7 +50,7 @@ With its sleek and responsive design, Filmiflix ensures an exceptional user expe
 
 ### **Clone the Repository**  
 ```bash
-git clone https://github.com/amreshpro/filmiflix.git
+git clone https://github.com/amreshcraft/filmiflix.git
 cd filmiflix
 ```
 
